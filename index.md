@@ -14,7 +14,6 @@ We collect the following types of information:
 
 ### Usage Data
 - App usage statistics
-- Device information (model, OS version)
 - Crash reports and performance data
 
 ## How We Use Your Information
