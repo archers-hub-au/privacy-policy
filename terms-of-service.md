@@ -33,7 +33,6 @@ You agree not to:
 
 ## 6. Intellectual Property
 - The App and its original content, features, and functionality are owned by Archers Hub
-- Our trademarks and trade dress may not be used without prior written consent
 - You may not copy, modify, distribute, or create derivative works of the App
 
 ## 7. Data and Privacy
@@ -51,14 +50,12 @@ You agree not to:
 ## 9. Limitation of Liability
 To the maximum extent permitted by law:
 - We shall not be liable for any indirect, incidental, special, or consequential damages
-- Our total liability shall not exceed the amount you paid to use the App (if any)
 - We are not liable for any loss of data, profits, or business opportunities
 
 ## 10. Termination
 - We reserve the right to suspend or terminate your account at any time for violation of these Terms
 - You may terminate your account at any time by deleting the App and contacting us
 - Upon termination, your right to use the App will immediately cease
-- We may retain certain data as required by law or for legitimate business purposes
 
 ## 11. Changes to Terms
 - We reserve the right to modify these Terms at any time
@@ -66,25 +63,18 @@ To the maximum extent permitted by law:
 - Continued use of the App after changes constitutes acceptance of the new Terms
 - If you do not agree to the changes, you must stop using the App
 
-## 12. Governing Law
-These Terms shall be governed by and construed in accordance with the laws of Australia, without regard to its conflict of law provisions.
+## 12. Governing Law and Disputes
+These Terms are governed by Australian law. We encourage resolving any issues through direct communication at support@archershubapp.com.
 
 ## 13. Dispute Resolution
-Any disputes arising from these Terms or your use of the App shall be resolved through:
-1. Good faith negotiation between the parties
-2. Mediation, if negotiation fails
-3. Arbitration or legal proceedings in Australian courts as a last resort
+Any disputes arising from these Terms should be resolved through good faith communication. For formal matters, Australian law applies.
 
-## 14. Severability
-If any provision of these Terms is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary, and the remaining provisions shall remain in full force and effect.
-
-## 15. Entire Agreement
+## 14. Entire Agreement
 These Terms, together with our Privacy Policy, constitute the entire agreement between you and Archers Hub regarding the use of the App.
 
-## 16. Contact Information
+## 15. Contact Information
 If you have any questions about these Terms of Service, please contact us:
-- **Email**: archers.hub.au@gmail.com
-- **Website**: https://github.com/archers-hub-au
+- **Email**: support@archershubapp.com
 
-## 17. Acknowledgment
+## 16. Acknowledgment
 By using Archers Hub, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.
